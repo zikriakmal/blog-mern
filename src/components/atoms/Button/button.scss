@@ -1,12 +1,18 @@
 .button {
     padding: 12px;
     font-size: 16px;
-    background-color: rgba(79, 238, 39, 0.637);
+    background-color: rgba(37, 185, 0, 0.637);
     border-radius: 10px;
     width: 100%;
     box-sizing: border-box;
     border: none;
     color: white;
     text-transform: uppercase;
-    cursor:pointer;
+    outline: none;
+    cursor: pointer;
+
+    &:hover {
+        background-color: rgba(24, 104, 4, 0.637);
+    }
+
 }

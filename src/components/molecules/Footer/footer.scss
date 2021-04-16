@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cadetblue;
+    padding: 10px 40px;
+    .content{
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+.copyright{
+    background-color: rgb(68, 108, 109);
+    padding: 10px 0px;
+    p{
+        font-size:14px;
+        color:white;
+        text-align:center;
+        margin:0px
+    }
+    
+}

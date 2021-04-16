@@ -1,4 +1,4 @@
-import RegisterBg from './image/register-bg.jpg';
+import RegisterBg from '../assets/Image/register-bg.jpg';
 
 
 export {RegisterBg};
